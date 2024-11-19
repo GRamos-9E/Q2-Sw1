@@ -1,0 +1,15 @@
+body {
+	background-color: #ECE2D0;
+	color: #DC9E82;
+	}
+
+.container {
+		background-color: white;
+	    color: blue;
+	    font: sans-serif; 
+	 }
+
+img {
+	width: 250px;
+	height: 350px;
+	}
